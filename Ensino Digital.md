@@ -220,7 +220,7 @@
 
 
 
-![p17](https://user-images.githubusercontent.com/23271567/162871229-9a68f258-581f-45e4-ace1-31a99e3b90a2.jpg)
+![p17]()
 
 ### Unidade 4
 
@@ -296,4 +296,4 @@
 
 
 
-![p19](D:\Estudos\EaD - Análise de desenvolvimento de sistemas\Ensino Digital\Atividades de Autoaprendizagem\Unidade 4\p19.jpg)
+![p19](https://user-images.githubusercontent.com/23271567/162871229-9a68f258-581f-45e4-ace1-31a99e3b90a2.jpg)
